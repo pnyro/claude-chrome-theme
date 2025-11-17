@@ -3,18 +3,14 @@
   "name": "Claude Dark Theme",
   "version": "1.0.0",
   "description": "A warm, earthy dark theme for Chrome inspired by Claude's VSCode theme, featuring terracotta accents and rich brown tones",
-  "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
-  },
   "theme": {
     "colors": {
       "frame": [22, 20, 15],
-      "frame_inactive": [26, 24, 22],
+      "frame_inactive": [22, 20, 15],
       "frame_incognito": [22, 20, 15],
       "frame_incognito_inactive": [26, 24, 22],
-      "toolbar": [26, 24, 22],
+      "toolbar": [45, 40, 32],
+      "toolbar_text": [232, 230, 227],
       "tab_text": [193, 95, 60],
       "tab_background_text": [110, 105, 96],
       "tab_background_text_inactive": [110, 105, 96],
@@ -25,12 +21,18 @@
       "background_tab_incognito": [22, 20, 15],
       "background_tab_incognito_inactive": [22, 20, 15],
       "bookmark_text": [232, 230, 227],
-      "button_background": [45, 40, 32],
+      "button_background": [22, 20, 15],
       "toolbar_button_icon": [193, 95, 60],
-      "ntp_background": [22, 20, 15],
-      "ntp_text": [232, 230, 227],
+      "ntp_background": [45, 40, 32],
+      "ntp_text": [193, 95, 60],
       "ntp_link": [193, 95, 60],
-      "ntp_header": [193, 95, 60]
+      "ntp_header": [193, 95, 60],
+      "ntp_section": [22, 20, 15],
+      "ntp_section_text": [232, 230, 227],
+      "ntp_section_link": [193, 95, 60],
+      "ntp_link_underline": [193, 95, 60],
+      "control_background": [45, 40, 32],
+      "control_buttons": [60, 54, 44]
     },
     "properties": {
       "ntp_background_alignment": "center"
