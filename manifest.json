@@ -3,11 +3,6 @@
   "name": "Claude Dark Theme",
   "version": "1.0.0",
   "description": "A warm, earthy dark theme for Chrome inspired by Claude's VSCode theme, featuring terracotta accents and rich brown tones",
-  "icons": {
-    "16": "icons/icon16.png",
-    "48": "icons/icon48.png",
-    "128": "icons/icon128.png"
-  },
   "theme": {
     "colors": {
       "frame": [22, 20, 15],
